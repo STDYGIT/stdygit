@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="486" height="387" viewBox="0 0 486 387" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><defs><linearGradient id="wbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs><rect width="486" height="387" rx="12" fill="url(#wbg)"/><rect x="0.5" y="0.5" width="485" height="386" rx="12" fill="none" stroke="#30363d" stroke-width="1"/><line x1="0" y1="28" x2="486" y2="28" stroke="#30363d"/><circle cx="18" cy="14.0" r="4.5" fill="#ff5f56"/><circle cx="33" cy="14.0" r="4.5" fill="#ffbd2e"/><circle cx="48" cy="14.0" r="4.5" fill="#27c93f"/><text x="243" y="18" fill="#7d8590" font-size="11.5" text-anchor="middle">stdygit@github: ~$ ./wordmark.sh --3d</text><clipPath id="wipe"><rect x="18" y="33.4" height="341.0" width="0"><animate attributeName="width" from="0" to="450" begin="0s" dur="1.60s" fill="freeze"/></rect></clipPath><g clip-path="url(#wipe)"><g fill="#c9d1d9">
+<!-- J - frame 0 (base) -->
+<text xml:space="preserve" x="54.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">    *SSSSSSS  </text>
+<text xml:space="preserve" x="54.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SS    =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSS==SSSSS   </text>
+<text xml:space="preserve" x="54.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> =SSSSSSSS=    </text>
+<!-- G -->
+<text xml:space="preserve" x="261.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  =SSSSSSS=    </text>
+<text xml:space="preserve" x="261.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> *SSSSSSSSSSS  </text>
+<text xml:space="preserve" x="261.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSS=         </text>
+<text xml:space="preserve" x="261.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  =SSSSSS </text>
+<text xml:space="preserve" x="261.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  =SSSSSS </text>
+<text xml:space="preserve" x="261.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSSSSSSSSS   </text>
+<text xml:space="preserve" x="261.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  =SSSSSSSS=   </text>
+</g><set attributeName="opacity" to="0" begin="1.60s"/></g><rect x="18" y="35.4" width="14.4" height="337.0" fill="#c9d1d9" opacity="0.16"><animate attributeName="x" from="18" to="468" begin="0s" dur="1.60s" fill="freeze"/><set attributeName="opacity" to="0" begin="1.60s"/></rect>
+
+<!-- Static final frame (shown after wipe) -->
+<g fill="#c9d1d9" opacity="0">
+<!-- J -->
+<text xml:space="preserve" x="54.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">    *SSSSSSS  </text>
+<text xml:space="preserve" x="54.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SS    =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSS==SSSSS   </text>
+<text xml:space="preserve" x="54.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> =SSSSSSSS=    </text>
+<!-- G -->
+<text xml:space="preserve" x="261.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  =SSSSSSS=    </text>
+<text xml:space="preserve" x="261.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> *SSSSSSSSSSS  </text>
+<text xml:space="preserve" x="261.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSS=         </text>
+<text xml:space="preserve" x="261.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  =SSSSSS </text>
+<text xml:space="preserve" x="261.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  =SSSSSS </text>
+<text xml:space="preserve" x="261.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSSSSSSSSS   </text>
+<text xml:space="preserve" x="261.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  =SSSSSSSS=   </text>
+<animate attributeName="opacity" calcMode="discrete" values="1;0" keyTimes="0;0.05000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
+</g>
+
+<!-- Flicker frame 1 — slightly brighter -->
+<g fill="#c9d1d9" opacity="0">
+<!-- J -->
+<text xml:space="preserve" x="54.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">    *SSSSSS+   </text>
+<text xml:space="preserve" x="54.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SS    =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSS==SSSSS   </text>
+<text xml:space="preserve" x="54.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> =SSSSSSSS=    </text>
+<!-- G -->
+<text xml:space="preserve" x="261.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  -SSSSSSS-    </text>
+<text xml:space="preserve" x="261.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> SSSSSSSSSSSS  </text>
+<text xml:space="preserve" x="261.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS=         </text>
+<text xml:space="preserve" x="261.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  =SSSSSS </text>
+<text xml:space="preserve" x="261.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  -SSSSS  </text>
+<text xml:space="preserve" x="261.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> SSSSSSSSSSSS  </text>
+<text xml:space="preserve" x="261.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  -SSSSSSS-    </text>
+<animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.05000;0.10000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
+</g>
+
+<!-- Flicker frame 2 -->
+<g fill="#c9d1d9" opacity="0">
+<!-- J -->
+<text xml:space="preserve" x="54.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">    -SSSSSS+   </text>
+<text xml:space="preserve" x="54.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       -SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       -SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       -SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSS    -SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> SSSS-=SSSSS   </text>
+<text xml:space="preserve" x="54.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  SSSSSSSS     </text>
+<!-- G -->
+<text xml:space="preserve" x="261.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  -SSSSSSS-    </text>
+<text xml:space="preserve" x="261.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> SSSSSSSSSSSS  </text>
+<text xml:space="preserve" x="261.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS          </text>
+<text xml:space="preserve" x="261.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  =SSSSSS </text>
+<text xml:space="preserve" x="261.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  -SSSSS  </text>
+<text xml:space="preserve" x="261.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> SSSSSSSSSSSS  </text>
+<text xml:space="preserve" x="261.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">   SSSSSSS     </text>
+<animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.10000;0.15000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
+</g>
+
+<!-- Flicker frame 3 — deeper 3D -->
+<g fill="#c9d1d9" opacity="0">
+<!-- J -->
+<text xml:space="preserve" x="54.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">    +SSSSSS+   </text>
+<text xml:space="preserve" x="54.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       +SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       +SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       +SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSS    +SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> SSSS+=SSSSS   </text>
+<text xml:space="preserve" x="54.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  =SSSSSSSS    </text>
+<!-- G -->
+<text xml:space="preserve" x="261.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  +SSSSSSS+    </text>
+<text xml:space="preserve" x="261.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> SSSSSSSSSSSS  </text>
+<text xml:space="preserve" x="261.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS          </text>
+<text xml:space="preserve" x="261.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  +SSSSSS </text>
+<text xml:space="preserve" x="261.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  +SSSSS  </text>
+<text xml:space="preserve" x="261.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> SSSSSSSSSSSS  </text>
+<text xml:space="preserve" x="261.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  +SSSSSSS+    </text>
+<animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.15000;0.20000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
+</g>
+
+<!-- Final steady state after all flickers -->
+<g fill="#c9d1d9" opacity="0">
+<!-- J -->
+<text xml:space="preserve" x="54.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">    *SSSSSSS   </text>
+<text xml:space="preserve" x="54.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">       =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SS    =SSSSS  </text>
+<text xml:space="preserve" x="54.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSS==SSSSS   </text>
+<text xml:space="preserve" x="54.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> =SSSSSSSS=    </text>
+<!-- G -->
+<text xml:space="preserve" x="261.0" y="138.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  =SSSSSSS=    </text>
+<text xml:space="preserve" x="261.0" y="154.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing"> *SSSSSSSSSSS  </text>
+<text xml:space="preserve" x="261.0" y="169.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSS=         </text>
+<text xml:space="preserve" x="261.0" y="185.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  =SSSSSS </text>
+<text xml:space="preserve" x="261.0" y="200.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">SSSSS  =SSSSSS </text>
+<text xml:space="preserve" x="261.0" y="216.0" font-size="14.3" textLength="180.0" lengthAdjust="spacing">*SSSSSSSSSSS   </text>
+<text xml:space="preserve" x="261.0" y="231.5" font-size="14.3" textLength="180.0" lengthAdjust="spacing">  =SSSSSSSS=   </text>
+<animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.20000" dur="5.00s" begin="1.60s" repeatCount="indefinite"/>
+</g>
+
+<!-- Bottom status bar -->
+<line x1="0" y1="290" x2="486" y2="290" stroke="#30363d"/>
+<text x="18" y="310" fill="#7d8590" font-size="13">stdygit@github:~$ whoami <tspan fill="#c9d1d9">Jatin Gera</tspan></text>
+<rect x="193" y="298" width="8" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
